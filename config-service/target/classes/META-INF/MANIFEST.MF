@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: atif
+Build-Jdk: 11.0.1
+Implementation-Title: config-service
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: org.atif
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/config-service
+Created-By: Maven Integration for Eclipse
+
